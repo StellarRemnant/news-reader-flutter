@@ -1,6 +1,6 @@
 # Flutter News App
 
-A simple yet feature-rich news application built using **Flutter**. This app fetches real-time news data from the [NewsAPI.org](https://newsapi.org/) REST API. It includes features such as **search functionality** and a **bookmark system using Provider**.
+A simple yet feature-rich news application built using **Flutter**. This app fetches real-time news data from the News API . It includes features such as **search functionality** and a **bookmark system using Provider**.
 
 ---
 
